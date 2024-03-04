@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MO parks</title>
+    <!-- map box api -->
+    <script src='https://api.mapbox.com/mapbox-gl-js/v3.1.2/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v3.1.2/mapbox-gl.css' rel='stylesheet' />
+    <!-- mapbox geocoder plugin -->
+    <script
+        src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v5.0.2/mapbox-gl-geocoder.min.js"></script>
+    <link rel="stylesheet"
+        href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v5.0.2/mapbox-gl-geocoder.css"
+        type="text/css">
+    <!-- link to CSS style sheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- map container -->
+    <div id="mo-parks" class="map-container"></div>
+
+<!-- NAVIGATION ELEMENTS -->
+<div class='map-search-container'>
+    <div id="geocoder" class="geocoder"></div>
+    <button type="button" class="btn btn-primary btn-sm" id="returnbutton">Return to full extent</button>
+</div>
+
+
+    <!-- add legend and little circle to click next to it -->
+    <div id='legend' class="legend" style="display: block;">
+        <h4>State & National Parks</h4>
+        <div><input type='radio' id='Ganp' name='park' value='G' />
+            <label for='Ganp'>Gateway Arch National Park</label><br /></div>
+        <div><input type='radio' id='Tsmsp' name='park' value='T' />
+            <label for='Tsmsp'>Taum Sauk Mountain State Park</label><br /></div>
+        <div><input type='radio' id='Ersp' name='park' value='E' />
+            <label for='Ersp'></label>Elephant Rocks State Park<br /></div>
+        <div><input type='radio' id='Hhtsp' name='park' value='H' />
+            <label for='Hhtsp'></label>Ha Ha Tonka State Park<br /></div>
+        <div><input type='radio' id='Mtnf' name='park' value='M' />
+            <label for='Mtnf'></label>Mark Twain National Forest<br /></div>
+        <div><input type='radio' id='Jsisp' name='park' value='J' />
+            <label for='Jsisp'></label>Johnson's Shut-Ins State Park<br /></div>
+        <div><input type='radio' id='Losp' name='park' value='L' />
+            <label for='Losp'></label>Lake of the Ozarks State Park<br /></div>
+        <div><input type='radio' id='Rbmsp' name='park' value='R' />
+            <label for='Rbmsp'></label>Rock Bridge Memorial State Park<br /></div>
+        <div><input type='radio' id='Wsp' name='park' value='W' />
+            <label for='Wsp'></label>Wakonda State Park<br /></div>
+        <div><input type='radio' id='Psp' name='park' value='P' />
+            <label for='Psp'></label>Prairie State Park<br /></div>
+        <div><input type='radio' id='Bssp' name='park' value='B' />
+            <label for='Bssp'></label>Bennett Spring State Park<br /></div>
+        <div><input type='radio' id='Knsp' name='park' value='K' />
+            <label for='Knsp'></label>Knob Noster State Park<br /></div>
+        <div><input type='radio' id='Csp' name='park' value='C' />
+            <label for='Csp'></label>Crowder State Park<br /></div>
+    </div>
+
+    <!-- link to java script page -->
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+
+    <!-- popup test -->
+    
+
+</body>
+
+</html>

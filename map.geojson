@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Gateway Arch National Park": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -90.18580883680175,
+                    38.62491281115797
+                ],
+                "type": "Point"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Taum Sauk Mountain State Park": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -90.76465527643705,
+                    37.54206648584177
+                ],
+                "type": "Point"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Elephant Rocks State Park": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -90.68855136404726,
+                    37.654478910425
+                ],
+                "type": "Point"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Ha Ha Tonka State Park": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -92.75428879582704,
+                    37.96852148850596
+                ],
+                "type": "Point"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Mark Twain National Forest": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -91.160025139068,
+                    37.67671883864563
+                ],
+                "type": "Point"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Johnson's Shut-Ins State Park": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -90.87158605832329,
+                    37.558447560659644
+                ],
+                "type": "Point"
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Lake of the Ozarks State Park": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -92.58636634228631,
+                    38.10804339782956
+                ],
+                "type": "Point"
+            },
+            "id": 6
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Rock Bridge Memorial State Park": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -92.31255183231158,
+                    38.87430269408597
+                ],
+                "type": "Point"
+            },
+            "id": 7
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Wakonda State Park": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -91.5102873576012,
+                    40.004718524172006
+                ],
+                "type": "Point"
+            },
+            "id": 8
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Prairie State Park": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -94.5450448886578,
+                    37.52317559211579
+                ],
+                "type": "Point"
+            },
+            "id": 9
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Bennett Spring State Park": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -92.85236418358305,
+                    37.71875616286617
+                ],
+                "type": "Point"
+            },
+            "id": 10
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Knob Noster State Park": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -93.6101382332562,
+                    38.74666956871906
+                ],
+                "type": "Point"
+            },
+            "id": 11
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Crowder State Park": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    -93.67686656967516,
+                    40.103368349161315
+                ],
+                "type": "Point"
+            },
+            "id": 12
+        }
+    ]
+}
