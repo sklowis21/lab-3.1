@@ -33,7 +33,7 @@ map.on('load', () => {
                 {
                     "type": "Feature",
                     "properties": {
-                        'description': "<strong>Taum Sauk Mountain State Park</strong><p>...</p>"
+                        'description': "<strong>Taum Sauk Mountain State Park</strong><p>Located in Middle Brook this state park contains the highest peak in the state!</p>"
                     },
                     "geometry": {
                         "coordinates": [
@@ -47,7 +47,7 @@ map.on('load', () => {
                 {
                     "type": "Feature",
                     "properties": {
-                        'description': "<strong>Elephant Rocks State Park</strong><p>...</p>"
+                        'description': "<strong>Elephant Rocks State Park</strong><p>Located in Belleview this state park contains a huge outcropping of granite boulders!</p>"
                     },
                     "geometry": {
                         "coordinates": [
@@ -61,7 +61,7 @@ map.on('load', () => {
                 {
                     "type": "Feature",
                     "properties": {
-                        'description': "<strong>Ha Ha Tonka State Park</strong><p>...</p>"
+                        'description': "<strong>Ha Ha Tonka State Park</strong><p>Located in Camdentown this state park contains sinkholes, caves, a huge natural bridge, and large bluffs!</p>"
                     },
                     "geometry": {
                         "coordinates": [
@@ -75,7 +75,7 @@ map.on('load', () => {
                 {
                     "type": "Feature",
                     "properties": {
-                        'description': "<strong>Mark Twain National Forest</strong><p>...</p>"
+                        'description': "<strong>Mark Twain National Forest</strong><p>Located in Rolla this national forest is named after the famous writer, Samuel Clemens, well known as Mark Twain</p>"
                     },
                     "geometry": {
                         "coordinates": [
@@ -89,7 +89,7 @@ map.on('load', () => {
                 {
                     "type": "Feature",
                     "properties": {
-                        'description': "<strong>Johnson's Shut Ins State Park</strong><p>...</p>"
+                        'description': "<strong>Johnson's Shut Ins State Park</strong><p>Located in Middle Brook this state park is known for its beautiful blue waters fed by the Black River</p>"
                     },
                     "geometry": {
                         "coordinates": [
@@ -103,7 +103,7 @@ map.on('load', () => {
                 {
                     "type": "Feature",
                     "properties": {
-                        'description': "<strong>Lake of the Ozarks State Park</strong><p>...</p>"
+                        'description': "<strong>Lake of the Ozarks State Park</strong><p>Located in Kaiser this state park is known as the largest state park in Missouri</p>"
                     },
                     "geometry": {
                         "coordinates": [
@@ -117,7 +117,7 @@ map.on('load', () => {
                 {
                     "type": "Feature",
                     "properties": {
-                        'description': "<strong>Rock Bridge Memorial State Park</strong><p>...</p>"
+                        'description': "<strong>Rock Bridge Memorial State Park</strong><p>Located in Columbia this state park is a geological preserve and public recreation area</p>"
                     },
                     "geometry": {
                         "coordinates": [
@@ -131,7 +131,7 @@ map.on('load', () => {
                 {
                     "type": "Feature",
                     "properties": {
-                        'description': "<strong>Wakonda State Park</strong><p>...</p>"
+                        'description': "<strong>Wakonda State Park</strong><p>Located in La Grange this state park features 6 small lakes used for water recreation</p>"
                     },
                     "geometry": {
                         "coordinates": [
@@ -145,7 +145,7 @@ map.on('load', () => {
                 {
                     "type": "Feature",
                     "properties": {
-                        'description': "<strong>Prairie State Park</strong><p>...</p>"
+                        'description': "<strong>Prairie State Park</strong><p>Located in Mindenmines this state park is home to acres of grasslands and woodland with hiking trails and camping areas</p>"
                     },
                     "geometry": {
                         "coordinates": [
@@ -159,7 +159,7 @@ map.on('load', () => {
                 {
                     "type": "Feature",
                     "properties": {
-                        'description': "<strong>Bennett Spring State Park</strong><p>...</p>"
+                        'description': "<strong>Bennett Spring State Park</strong><p>Located in Bennett Springs this state park is known for its great fishing!</p>"
                     },
                     "geometry": {
                         "coordinates": [
@@ -173,7 +173,7 @@ map.on('load', () => {
                 {
                     "type": "Feature",
                     "properties": {
-                        'description': "<strong>Knob Noster State Park</strong><p>...</p>"
+                        'description': "<strong>Knob Noster State Park</strong><p>Located in Knob Noster this state park is a great place for family camping trips!</p>"
                     },
                     "geometry": {
                         "coordinates": [
@@ -187,7 +187,7 @@ map.on('load', () => {
                 {
                     "type": "Feature",
                     "properties": {
-                        'description': "<strong>Crowder State Park</strong><p>...</p>"
+                        'description': "<strong>Crowder State Park</strong><p>Located in Trenton this state park surrounds an 18 acre lake!</p>"
                     },
                     "geometry": {
                         "coordinates": [
